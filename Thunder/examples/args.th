@@ -1,0 +1,4 @@
+main {
+    printt("Argument:", "cyan", "bold")
+    printt(args[0])
+}
