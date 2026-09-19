@@ -1,5 +1,7 @@
 # Thunder
 
+![Logo](logo.png)
+
 Thunder is a small experimental programming language for fast terminal and TUI applications.
 The current release is **v0.1.0 MVP** and uses a lightweight Python interpreter.
 
